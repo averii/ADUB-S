@@ -1,2 +1,0 @@
-# ADUB-S
-SCRIPTS
